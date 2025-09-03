@@ -65,7 +65,7 @@ Visit my personal site for more insight into my academic and professional backgr
 ---
 
 ## Curriculum Vitae
-[Download CV (PDF)](https://github.com/username/CV/blob/main/Llewellyn_Fourie_CV.pdf)
+[Download My CV (PDF)](https://github.com/Llewellyn04/Llewellyn-Fourie/raw/main/LJF_CV.pdf)
 
 ---
 
