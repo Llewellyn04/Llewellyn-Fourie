@@ -18,13 +18,19 @@ Currently seeking a 2026 internship in Data Analytics / Engineering.
 ---
 
 ## About Me
-I am a dedicated and adaptable Data Science Honours student eager to apply academic knowledge in professional environments. My experience spans software development, database administration, business intelligence, and cloud technologies. I enjoy working on interdisciplinary challenges that combine rigorous problem-solving with practical applications.
+I am a driven and adaptable Data Science Honours student seeking an
+internship opportunity to apply and grow my skills. I have gained practical
+experience through a student holiday internship at Dynetek Ltd., where I
+worked with AL Development, Power BI, and Microsoft Dynamics NAV. I am
+eager to take on new challenges, contribute to real-world projects, and
+continue learning in a professional environment. As part of my Honours
+degree, I am required to complete a full-time internship in 2026.
 
 ---
 
 ## Skills
 
-- **Programming & Development:** C#, Python, R, SQL (Oracle & Microsoft), Java, C++  
+- **Programming & Development:** C#,SQL (Oracle & Microsoft) , (Busy with R in my current module) 
 - **Web Development:** HTML, CSS, JavaScript, React  
 - **Data & Analytics:** Power BI (DAX, dashboards, reporting), AL Development  
 - **Database & Cloud:** Oracle 19c/23ai, Microsoft Dynamics NAV / Business Central, Azure  
@@ -55,11 +61,6 @@ I am a dedicated and adaptable Data Science Honours student eager to apply acade
 Visit my personal site for more insight into my academic and professional background:  
 **Live at:** https://llewellyn04.github.io/LlewellynJakobusFourie_Portfolio/
 
-### What You’ll Find:
-- **About Me** — A summary of my Data Science Honours journey and internship involvement at Dynetek Ltd.  
-- **Internship Focus** — Highlights of AL Development, Power BI, and Microsoft Dynamics NAV experience.  
-- **Future Plans** — Insights into my upcoming full-time internship requirement for 2026.
-
 *Note: Project repositories remain private. Summary descriptions are available upon request.*
 
 ---
@@ -72,5 +73,6 @@ Visit my personal site for more insight into my academic and professional backgr
 ## Contact
 
 - Email: fourie.llewellyn.j@gmail.com  
+- Cell: 0847994265
 - LinkedIn: [linkedin.com/in/llewellyn-fourie-b162a021a](https://www.linkedin.com/in/llewellyn-fourie-b162a021a/)  
 - Location: Centurion, South Africa
